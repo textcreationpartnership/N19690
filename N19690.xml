@@ -110,14 +110,16 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:025713_0000_0FCF016255770690"/>
-            <pb facs="tcp:025713_0001_0FCF0166F84B3588" rendition="simple:additions"/>
+            <pb facs="unknown:025713_0000_0FCF016255770690"/>
+            <pb facs="unknown:025713_0001_0FCF0166F84B3588"
+                rendition="simple:additions"/>
             <p>AN ORATION Delivered at LENOX, the 4th July, 1793, the Anni<g ref="char:EOLhyphen"/>versary of American Independence.</p>
             <p>By ELISHA LEE, Esq.</p>
             <p>STOCKBRIDGE: Printed by LORING ANDREWS. M, D, CCXCIII.</p>
          </div>
          <div type="apology">
-            <pb facs="tcp:025713_0002_0FCF016939176310" rendition="simple:additions"/>
+            <pb facs="unknown:025713_0002_0FCF016939176310"
+                rendition="simple:additions"/>
             <head>—APOLOGY—</head>
             <p>IT was not the intention of the Author to submit the follow<g ref="char:EOLunhyphen"/>ing pages to the publick, through the medium of the Press. A very shor<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -146,7 +148,8 @@
       </front>
       <body>
          <div type="speech">
-            <pb facs="tcp:025713_0003_0FCF016AAE726950" rendition="simple:additions"/>
+            <pb facs="unknown:025713_0003_0FCF016AAE726950"
+                rendition="simple:additions"/>
             <opener>
                <salute>RESPECTED FRIENDS AND FELLOW CITIZENS,</salute>
             </opener>
@@ -201,7 +204,7 @@
                </gap> the reign of the first JAMES, resulting from his bigotted att<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>hment to the <hi>hierarchy,</hi> and the penal laws made against non-conformists, were the immediate causes of the
-<pb n="6" facs="tcp:025713_0004_0FCF016C1597E4A0"/>
+<pb n="6" facs="unknown:025713_0004_0FCF016C1597E4A0"/>
 first settlements in America. Men, whose minds had but just been libe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rated from the shackles of the Papal tyranny, and whose hearts wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -273,7 +276,7 @@ first settlements in America. Men, whose minds had but just been libe<gap reason
                </gap>bitants of each <hi>corporate powers</hi> and <hi>privileges; obliging</hi> them to <hi>est<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>blish</hi>
-               <pb n="7" facs="tcp:025713_0005_0FCF0171E6D5F888"/>
+               <pb n="7" facs="unknown:025713_0005_0FCF0171E6D5F888"/>
 and <hi>support</hi> SCHOOLS for the education of youth, and to <hi>settle</hi> and <hi>maintain</hi> teachers of morality and religion? These institutions, which obtained more especially in New-England, diffused among the whole body of the people, a greater degree of <hi>useful, moral</hi> and <hi>political</hi> know<g ref="char:EOLhyphen"/>lege than, perhaps, ever before existed among the people of any other coun<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ry.</p>
@@ -316,7 +319,7 @@ and <hi>support</hi> SCHOOLS for the education of youth, and to <hi>settle</hi> 
             <p>More than eighteen years have now circled through the heavens, since the blood of brethren was first spilt in the guilty contest that ensued; since <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ate withdrew the gilded curtain from the <hi>villain</hi> despotism, and
-<pb n="8" facs="tcp:025713_0006_0FCF017443B8DD98"/>
+<pb n="8" facs="unknown:025713_0006_0FCF017443B8DD98"/>
 pointed the indignation of astonished man against the <hi>author</hi> of his poli<g ref="char:EOLhyphen"/>tical misery! —Upon thy clouded b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ow, O LEXINGTON, on that event<g ref="char:EOLhyphen"/>ful day, hovered the G<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -354,7 +357,7 @@ pointed the indignation of astonished man against the <hi>author</hi> of his pol
                   <desc>•</desc>
                </gap>e these with any probability of success, required a renunciation on the part of America of all political connection with Great Britain.</p>
             <p>
-               <pb n="9" facs="tcp:025713_0007_0FCF01751FB30D20"/>The ERA had now arrived, for the establishment of the EMPIRE of LIBERTY, in the NEW WORLD.</p>
+               <pb n="9" facs="unknown:025713_0007_0FCF01751FB30D20"/>The ERA had now arrived, for the establishment of the EMPIRE of LIBERTY, in the NEW WORLD.</p>
             <p>The GENERAL CONGRESS, on the ever memorable fourth of July, in the year 1776,
 "appealing to the SUPREME JUDGE of the world for the rectitude of their intentions, solemnly published and declared that the United Colonies were, and of right ought to be, <hi>free</hi> and INDEPEN<g ref="char:EOLhyphen"/>DENT STATES; and that they were absolved from all allegiance to the <hi>British Crown.</hi> And for the support of this declaration, with a firm re<g ref="char:EOLhyphen"/>liance upon the protection of Divine Providence, they mutually pledg<g ref="char:EOLhyphen"/>ed to each other their lives, their fortunes, and their sacred honor."</p>
             <p>The remembrance of that august transaction we now celebrate. This day, this glorious day, by the united voice of the millions of America, is dedicated to the exultations of PATRIOTISM, the triumphs of LIBERTY, and to <hi>gratitude</hi> to HEAVEN!</p>
@@ -372,7 +375,7 @@ by accomplishing, after an eight years war, the object for which she had fought!
                   <hi>Horace.</hi>
                </note> Others, who lived to see the cause of Liberty crowned with glorious success, have since taken the highest stand in the TEM<g ref="char:EOLhyphen"/>PLE of FAME. There a splendid wreath of military honor encircles the brow of GREEN; and SCIENCE, rejoicing in the acquisitions of her em<g ref="char:EOLhyphen"/>pire, and HUMANITY, brightening with new irradiations of benevolence, minister to the immortal spirit of FRANKLIN.</p>
             <p>
-               <pb n="10" facs="tcp:025713_0008_0FCF0176DAB5DC30"/>The magnitude of the American revolution, and the consequent hap<g ref="char:EOLhyphen"/>piness of our country, deserve our attention—America, from a state of undefined dependence on Great Britain, has assumed an illustrious rank among the nations of the Earth. Her trade, no longer the monopoly of a single foreign nation, has extended itself to every quarter of the globe. Mercantile enterprize, no longer restricted, has penetrated the remotest regions. The Baltic and the Mediterranean, the Brazils and the Bay o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="10" facs="unknown:025713_0008_0FCF0176DAB5DC30"/>The magnitude of the American revolution, and the consequent hap<g ref="char:EOLhyphen"/>piness of our country, deserve our attention—America, from a state of undefined dependence on Great Britain, has assumed an illustrious rank among the nations of the Earth. Her trade, no longer the monopoly of a single foreign nation, has extended itself to every quarter of the globe. Mercantile enterprize, no longer restricted, has penetrated the remotest regions. The Baltic and the Mediterranean, the Brazils and the Bay o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Hudson, China and the Indies, the immense Eastern and Pacific Oceans, are witnesses of our commerce.</p>
             <p>Whilst our citizens have enriched themselves, by their commercial industry, the means have been furnished, by the most imperceptible spe<g ref="char:EOLhyphen"/>cies of taxation, to establish funds adequate to all the objects of national justice and policy. The permanent resources of our country, constitut<g ref="char:EOLhyphen"/>ing the common stock of the happiness and enjoyments of our citi<g ref="char:EOLhyphen"/>zens, in their hands rema<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -397,7 +400,7 @@ by accomplishing, after an eight years war, the object for which she had fought!
                   <hi>Cooper's Poems.</hi>
                </note>
             </l>
-            <pb n="11" facs="tcp:025713_0009_0FCF017E8F4178C8"/>
+            <pb n="11" facs="unknown:025713_0009_0FCF017E8F4178C8"/>
             <p>To a system so replete with <hi>debasement</hi> and <hi>misery,</hi> may America for<g ref="char:EOLhyphen"/>ever continue a stranger!</p>
             <p>The encrease of our population, and the extension of our settlements, have been still more considerable than the growth of our commerce. The circumstances relative to this subject, which will not fail to astonish posterity, can neither pass unnoticed, or unadmired by the present ge<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -462,7 +465,7 @@ by accomplishing, after an eight years war, the object for which she had fought!
                </gap>d on the choice of the pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ple, as the legitimate
-<pb n="12" facs="tcp:025713_0010_0FCF01781EBA60F8"/>
+<pb n="12" facs="unknown:025713_0010_0FCF01781EBA60F8"/>
 source of authority, has extended itself, and been more firmly establish<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ed. The right of a people to alter the forms of their governments, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -543,7 +546,7 @@ source of authority, has extended itself, and been more firmly establish<gap rea
                </gap>ssible. Whilst <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="13" facs="tcp:025713_0011_0FCF01812773EA20"/>
+               <pb n="13" facs="unknown:025713_0011_0FCF01812773EA20"/>
 our speculations are confounded amidst the contradictory variety of Eu<g ref="char:EOLhyphen"/>ropean information, there is perhaps but one point at which it is safe to rest. If the renovation of France be the design of heaven, it will not <hi>ultimately</hi> be defeated, neither by the crimes of the daemoniacs of Paris, nor by the efforts of a <hi>confederacy,</hi> the most extensive and formidable, that ever astonished mankind.</p>
             <p>Whilst Europe is involved in the horrors and devastations of war, AMERICA is reposing in the calm <hi>sunshine</hi> of PEACE; her <hi>prosperity,</hi> the <hi>envy,</hi> and her GOVERNMENT the <hi>ambition,</hi> of the eastern world. To trace the vestiges of so unparralleled a progress in the career of glory <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -558,7 +561,7 @@ our speculations are confounded amidst the contradictory variety of Eu<g ref="ch
                </gap>ct<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>, for which it was de<g ref="char:EOLhyphen"/>signed?
-<pb n="14" facs="tcp:025713_0012_0FCF017A34D5BDD8"/>
+<pb n="14" facs="unknown:025713_0012_0FCF017A34D5BDD8"/>
 Have we not seen a <hi>more perfect union formed, justice established, domestic tranquility ensured, and the general welfare</hi> 
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -582,7 +585,7 @@ Gives the highest relish to every enjoyment; have we not reason to love our coun
             <p>Whilst the fabric of our government unites with the bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ssings of LI<g ref="char:EOLhyphen"/>BERTY, the dignity of ORDER, and the energy of POWER; whilst
-<pb n="15" facs="tcp:025713_0013_0FCF018359985288"/>
+<pb n="15" facs="unknown:025713_0013_0FCF018359985288"/>
 impartial justice administers the laws, in protecting innocence, and guard<g ref="char:EOLhyphen"/>ing the acquisitions of industry; whilst the rights of nature are secured from the ravages of <hi>anarchy</hi> and the grasp of <hi>oppression</hi>; have we not rea<g ref="char:EOLhyphen"/>son to venerate that government?</p>
             <p>YES, my fellow citizens, we LOVE our COUNTRY; we GLORY in her CONSTITUTION; and we HONOUR her illustrious AD<g ref="char:EOLhyphen"/>MINISTRATORS!</p>
             <p>Let <hi>haggard envy</hi> calumniate those virtues which she cannot imitate: Let <hi>anarchy,</hi> under the semblance of PATRIOTISM, bellow his ap<g ref="char:EOLhyphen"/>prehensions of the dangers of L<gap reason="illegible" resp="#PDCC" extent="1 letter">
